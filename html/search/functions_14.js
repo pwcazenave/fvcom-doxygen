@@ -1,6 +1,7 @@
 var searchData=
 [
   ['u2tgrid',['u2tgrid',['../namespaceice__grid.html#af5a487ccfd6a5de3ed91caf0ba2cf544',1,'ice_grid']]],
+  ['upcase',['upcase',['../ocpcre_8F.html#ac085d73073b0e435241fb3da95cc442d',1,'ocpcre.F']]],
   ['update_5faip',['update_aip',['../namespacemod__binary.html#a1624465a4a8cdde3e3a08f94d411348b',1,'mod_binary']]],
   ['update_5fairpressure',['update_airpressure',['../namespacemod__force.html#a2bae00eae765df38c4cc38f17cebb6a9',1,'mod_force']]],
   ['update_5fbinary',['update_binary',['../namespacemod__binary.html#a34a8dbe4a3e2a6878027c099dd884b7e',1,'mod_binary']]],

@@ -1,5 +1,7 @@
 var searchData=
 [
+  ['range4',['range4',['../swancom4_8F.html#a58cbc4358ac65aad6e6e4e9068482c2c',1,'swancom4.F']]],
+  ['rdinit',['rdinit',['../ocpcre_8F.html#a0b3a0be2a272d226bba55e719746510d',1,'ocpcre.F']]],
   ['read_5faip',['read_aip',['../namespacemod__binary.html#a6fe327937d3d6d592f43c404bc8d1659',1,'mod_binary']]],
   ['read_5fatmo',['read_atmo',['../namespacemod__startup.html#a069d765a52ea8c1267ab9838374b8f3d',1,'mod_startup']]],
   ['read_5fatt_5ftype',['read_att_type',['../namespacemod__nctools.html#a3edfa5d575a6d33532fb39ffa348c69d',1,'mod_nctools']]],
@@ -42,6 +44,7 @@ var searchData=
   ['read_5fuv',['read_uv',['../namespacemod__startup.html#a6ca76c1b1866ce6aa906ee70d37f7e7c',1,'mod_startup']]],
   ['read_5fwetdry',['read_wetdry',['../namespacemod__startup.html#ae31d7d6fc1d04ae6b1406c8d62436624',1,'mod_startup']]],
   ['read_5fwnd',['read_wnd',['../namespacemod__binary.html#ac96aaa0ce966819d5960dbea3bfec53b',1,'mod_binary::read_wnd()'],['../namespacemod__mm5.html#a5ed1f8c99f0b5360dae61dbe83cbb2fa',1,'mod_mm5::read_wnd()']]],
+  ['readxy',['readxy',['../swanser_8F.html#ac0434b6d222b87269550baa083de170b',1,'swanser.F']]],
   ['rebin',['rebin',['../namespaceice__itd.html#ac6b7ddf46d55f420bf0a7f701a724b5d',1,'ice_itd']]],
   ['rectgrid',['rectgrid',['../namespaceice__grid.html#a2368fc9f9adb4dd4c869e9e618923640',1,'ice_grid']]],
   ['recursive_5ffile_5fbracket',['recursive_file_bracket',['../namespacemod__nctools.html#a1336af6964c934204cc670226300ff74',1,'mod_nctools']]],
@@ -51,12 +54,17 @@ var searchData=
   ['report_5fnow',['report_now',['../namespacemod__report.html#a846527d916c51d6a51eda12869b94d45',1,'mod_report']]],
   ['report_5ftime',['report_time',['../namespacemod__clock.html#a62cbc867eeb0be75cb81d12ff9ab3c93',1,'mod_clock']]],
   ['report_5ftime_5fsetup',['report_time_setup',['../namespacemod__set__time.html#abd3dd9e0b72cabe6932bd354d6dd1168',1,'mod_set_time']]],
+  ['restart_5fcreate',['restart_create',['../input_2restart__file_2main_8F.html#a76891453241e9fdaad236aeedb3ba504',1,'main.F']]],
   ['restart_5fextras_5ffile_5fobject',['restart_extras_file_object',['../namespacemod__ncdio.html#a43cfd80e2698d6ef89d4f5beb892a466',1,'mod_ncdio']]],
+  ['rho_5fpmean',['rho_pmean',['../rho__pmean_8F.html#a125c5c45c258cff14afa757d1aa74622',1,'rho_pmean.F']]],
+  ['riam_5fslw',['riam_slw',['../swancom4_8F.html#a95049272db0c8876548d1ad8ea07aacd',1,'swancom4.F']]],
   ['ridge_5fice',['ridge_ice',['../namespaceice__mechred.html#a56b4d95edf6adf014f520c81b5128e95',1,'ice_mechred']]],
   ['ridge_5fprep',['ridge_prep',['../namespaceice__mechred.html#a79eedbc501b6c801f6ce6d99c48a9ed6',1,'ice_mechred']]],
   ['ridge_5fshift',['ridge_shift',['../namespaceice__mechred.html#af5e8f6318f24e3bc89f13c2f0ccfa1bb',1,'ice_mechred']]],
   ['rightney',['rightney',['../namespacesegment__class.html#a9ba2b2fefa602e0d90eaf49ef415c70c',1,'segment_class']]],
   ['river_5fdischarge',['river_discharge',['../namespacemod__force.html#a27d66910a33a84f227ed721b714092d3',1,'mod_force']]],
+  ['river_5ffiles',['river_files',['../input_2rivers_2main_8F.html#aaca043a59a9949400e0d23e137012bd7',1,'main.F']]],
+  ['roll',['roll',['../util_8F.html#ae4e758bbe2a2754535818a10a569a06b',1,'util.F']]],
   ['rst_5fvertical_5fvel_5ffile_5fobject',['rst_vertical_vel_file_object',['../namespacemod__restart.html#a468e5c94ea0b6e2bdc9407b3f1f4eaba',1,'mod_restart']]],
   ['run_5ftge',['run_tge',['../namespacemod__sst2grd.html#aacf3549757bdbf8a51c75fa4a85764fc',1,'mod_sst2grd::run_tge()'],['../namespacemod__surfaceforce.html#a3267d5e25e0ee1141ae49435852598c6',1,'mod_surfaceforce::run_tge()'],['../namespacemod__ts__clim.html#a54e3ca4339521be7845df2d2f311dd2c',1,'mod_ts_clim::run_tge()']]]
 ];
