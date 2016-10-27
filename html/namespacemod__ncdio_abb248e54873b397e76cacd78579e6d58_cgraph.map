@@ -1,0 +1,10 @@
+<map id="mod_ncdio::archive" name="mod_ncdio::archive">
+<area shape="rect" id="node2" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="652,7,787,34"/>
+<area shape="rect" id="node3" href="$namespacemod__ncdio.html#a7996a4a48c67d7d11b2457581627e42e" title="mod_ncdio::mpi_io_synchronize" alt="" coords="195,83,409,110"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="457,108,604,135"/>
+<area shape="rect" id="node6" href="$namespacemod__ncdio.html#a42f5f08909a0f9602d7c7e556f62b66f" title="mod_ncdio::add_average" alt="" coords="213,134,391,160"/>
+<area shape="rect" id="node7" href="$namespacemod__ncdio.html#a0ae78394da1e134d18c5daaf1401c748" title="mod_ncdio::divide_average" alt="" coords="206,184,398,211"/>
+<area shape="rect" id="node9" href="$namespacemod__ncdio.html#a00dc7386455b2442c7e40f19ea8a7d61" title="mod_ncdio::zero_average" alt="" coords="211,235,393,262"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="660,108,779,135"/>
+<area shape="rect" id="node8" href="$namespacemod__time.html#a92819efd5c7a4eec1b0dc42efb4398a8" title="mod_time::seconds" alt="" coords="460,210,601,236"/>
+</map>

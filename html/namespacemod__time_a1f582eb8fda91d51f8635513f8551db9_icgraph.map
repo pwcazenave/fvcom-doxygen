@@ -1,0 +1,16 @@
+<map id="mod_time::adjust" name="mod_time::adjust">
+<area shape="rect" id="node2" href="$namespacemod__time.html#afefb2a3bf90a9c84791c2a5ca64fcead" title="mod_time::abs_time" alt="" coords="207,5,349,32"/>
+<area shape="rect" id="node3" href="$namespacemod__time.html#ae03d70edb6175826747bb9295fa88860" title="mod_time::days2time_dbl" alt="" coords="189,56,367,83"/>
+<area shape="rect" id="node5" href="$namespacemod__time.html#a57b44737a9efc32d8d0589e06141fa50" title="mod_time::seconds2time_dbl" alt="" coords="179,107,377,133"/>
+<area shape="rect" id="node7" href="$namespacemod__time.html#a2df6025e30e22778732546b2ac57e156" title="mod_time::seconds2time_int" alt="" coords="181,157,375,184"/>
+<area shape="rect" id="node8" href="$namespacemod__time.html#ad9c8df8fbc623573c26c5dd7f4c625f4" title="mod_time::seconds2time_lint" alt="" coords="179,208,377,235"/>
+<area shape="rect" id="node9" href="$namespacemod__time.html#a2b3cc5a54e4b295b328da6ac71535c4b" title="mod_time::int_x_time" alt="" coords="204,259,352,285"/>
+<area shape="rect" id="node10" href="$namespacemod__time.html#a1e2075fa49f775c5d30283e8e70dffd9" title="mod_time::long_x_time" alt="" coords="197,309,359,336"/>
+<area shape="rect" id="node11" href="$namespacemod__time.html#ae6137d0c6e6d4ef052240f167fc8be35" title="mod_time::time_x_int" alt="" coords="204,360,352,387"/>
+<area shape="rect" id="node12" href="$namespacemod__time.html#aa96a61b83e3194b3a00c668e7ea988d0" title="mod_time::time_x_long" alt="" coords="197,411,359,437"/>
+<area shape="rect" id="node13" href="$namespacemod__time.html#a774e56c82d3af982db492dcc925e9c95" title="mod_time::time_x_dbl" alt="" coords="201,461,355,488"/>
+<area shape="rect" id="node14" href="$namespacemod__time.html#a357945356c740f644cd524f5800c1af8" title="mod_time::add_time" alt="" coords="205,512,351,539"/>
+<area shape="rect" id="node15" href="$namespacemod__time.html#aa239750127d6c25892e0f4a1b0952032" title="mod_time::subtract_time" alt="" coords="195,563,361,589"/>
+<area shape="rect" id="node4" href="$namespacemod__time.html#ac5811aa6cee6bbe7081dc3ea74a18359" title="mod_time::days2time_flt" alt="" coords="437,56,605,83"/>
+<area shape="rect" id="node6" href="$namespacemod__time.html#a421f7501ab0f3d52dbbd18dc92981d4b" title="mod_time::seconds2time_flt" alt="" coords="425,107,616,133"/>
+</map>

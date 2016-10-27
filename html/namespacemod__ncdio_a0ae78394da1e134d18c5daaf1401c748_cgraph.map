@@ -1,0 +1,6 @@
+<map id="mod_ncdio::divide_average" name="mod_ncdio::divide_average">
+<area shape="rect" id="node2" href="$namespacemod__time.html#a92819efd5c7a4eec1b0dc42efb4398a8" title="mod_time::seconds" alt="" coords="248,5,389,32"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="245,56,392,83"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="440,31,575,57"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="448,81,567,108"/>
+</map>

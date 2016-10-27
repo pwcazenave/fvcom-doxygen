@@ -1,0 +1,10 @@
+<map id="mod_clock::report_time" name="mod_clock::report_time">
+<area shape="rect" id="node2" href="$namespacemod__clock.html#a61611dfbb8f9fb064af7c84c9738853e" title="mod_clock::watch_init" alt="" coords="227,31,381,57"/>
+<area shape="rect" id="node6" href="$namespacemod__clock.html#aa6a7daad5439a79384d17d267912e177" title="mod_clock::gettime" alt="" coords="234,81,374,108"/>
+<area shape="rect" id="node7" href="$namespacemod__time.html#a2045785f7f1aed692fa7c2c55357914b" title="mod_time::write_datetime" alt="" coords="216,132,392,159"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="442,31,589,57"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="646,5,781,32"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="654,56,773,83"/>
+<area shape="rect" id="node8" href="$namespacemod__time.html#a63cba3b0a109ac21ddf951418cf7d079" title="mod_time::time_zone" alt="" coords="440,132,591,159"/>
+<area shape="rect" id="node9" href="$namespacemod__time.html#a46a59bd304e28442882f29f4d5a8be80" title="mod_time::read_time" alt="" coords="639,132,788,159"/>
+</map>

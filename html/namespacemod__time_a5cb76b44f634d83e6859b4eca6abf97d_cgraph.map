@@ -1,0 +1,6 @@
+<map id="mod_time::now_2_month_days" name="mod_time::now_2_month_days">
+<area shape="rect" id="node2" href="$namespacemod__time.html#a2045785f7f1aed692fa7c2c55357914b" title="mod_time::write_datetime" alt="" coords="263,5,439,32"/>
+<area shape="rect" id="node5" href="$namespacemod__time.html#a96088dadd5be54bce340adc1133c24d9" title="mod_time::read_datetime" alt="" coords="263,56,439,83"/>
+<area shape="rect" id="node3" href="$namespacemod__time.html#a63cba3b0a109ac21ddf951418cf7d079" title="mod_time::time_zone" alt="" coords="487,31,637,57"/>
+<area shape="rect" id="node4" href="$namespacemod__time.html#a46a59bd304e28442882f29f4d5a8be80" title="mod_time::read_time" alt="" coords="685,31,835,57"/>
+</map>

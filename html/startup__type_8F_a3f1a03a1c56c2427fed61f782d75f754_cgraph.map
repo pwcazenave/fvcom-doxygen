@@ -1,0 +1,6 @@
+<map id="set_startup_type" name="set_startup_type">
+<area shape="rect" id="node2" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="367,23,501,50"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a28dce2e1de5b7a2f2cda38d48affeb88" title="mod_utils::warning" alt="" coords="178,23,313,50"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="172,74,319,100"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="375,74,493,100"/>
+</map>

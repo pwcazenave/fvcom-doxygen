@@ -1,0 +1,16 @@
+<map id="put_atts" name="put_atts">
+<area shape="rect" id="node2" href="$util_8F.html#acc7e5937c7995fe3369bf547b5585069" title="natts" alt="" coords="133,5,184,32"/>
+<area shape="rect" id="node3" href="$util_8F.html#a6052df8180d6c3180d91415741437f65" title="att_type" alt="" coords="125,56,193,83"/>
+<area shape="rect" id="node4" href="$util_8F.html#adcef9e2b0bd1b2867a8f36c9c1aa39bd" title="att_len" alt="" coords="128,107,189,133"/>
+<area shape="rect" id="node5" href="$util_8F.html#ac57a4968671eb9b2681e520aa5e2ffdc" title="hash" alt="" coords="133,157,184,184"/>
+<area shape="rect" id="node6" href="$util_8F.html#a0aebd3810c1b33497a57426f36559640" title="varid" alt="" coords="133,208,185,235"/>
+<area shape="rect" id="node7" href="$util_8F.html#a0fea432c9b604b3c85cb7b88f8fa1a50" title="att_name" alt="" coords="120,259,197,285"/>
+<area shape="rect" id="node8" href="$nf__error_8F.html#a81614bfa69f45eadc64ba38ef5feb74a" title="errore" alt="" coords="129,309,188,336"/>
+<area shape="rect" id="node15" href="$util_8F.html#a73aaf1c50188f5e0685a160a32906c2e" title="inrange" alt="" coords="125,360,192,387"/>
+<area shape="rect" id="node9" href="$nf__error_8F.html#a3c0ddfb0f81a962f97b7958e7b396b2b" title="errorc" alt="" coords="245,309,303,336"/>
+<area shape="rect" id="node10" href="$util_8F.html#a841965d33d85051da6b4a1321c4863b2" title="len_trim" alt="" coords="351,259,419,285"/>
+<area shape="rect" id="node11" href="$ocpmix_8F.html#a67611b1c731aaa922292d2d621fb5bbd" title="for" alt="" coords="467,335,505,361"/>
+<area shape="rect" id="node14" href="$nf__error_8F.html#af536da5313fb4f484f5ad81c731557ea" title="error" alt="" coords="359,360,410,387"/>
+<area shape="rect" id="node12" href="$ocpmix_8F.html#acd882626211bcb78486211cc0ac41678" title="strace" alt="" coords="556,309,615,336"/>
+<area shape="rect" id="node13" href="$ocpmix_8F.html#aefe3ccee1a5038b14ac40e21973d4b24" title="msgerr" alt="" coords="553,360,617,387"/>
+</map>

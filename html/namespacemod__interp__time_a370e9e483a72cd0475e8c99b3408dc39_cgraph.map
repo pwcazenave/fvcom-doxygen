@@ -1,0 +1,7 @@
+<map id="mod_interp_time::interp_time" name="mod_interp_time::interp_time">
+<area shape="rect" id="node2" href="$namespacemod__interp__time.html#a2a130164da1a68d9658fb2bb958f767e" title="mod_interp_time::set_time" alt="" coords="251,5,430,32"/>
+<area shape="rect" id="node3" href="$namespacemod__interp__time.html#a09241d981a760f9864721d7c0b20b4ec" title="mod_interp_time::setup\l_interp_memory" alt="" coords="261,57,421,98"/>
+<area shape="rect" id="node4" href="$namespacemod__interp__time.html#abae05390c08d5d6c6113a471024c80c0" title="mod_interp_time::static\l_variables" alt="" coords="261,122,420,163"/>
+<area shape="rect" id="node5" href="$namespacemod__interp__time.html#a56b2705873d5cfa3c26cfbd313fc32ff" title="mod_interp_time::main_loop" alt="" coords="245,188,436,215"/>
+<area shape="rect" id="node6" href="$namespacemod__interp__time.html#a06b3f795009bc4d7f80ec867467b36d2" title="mod_interp_time::calculate\l_interp" alt="" coords="484,181,667,222"/>
+</map>

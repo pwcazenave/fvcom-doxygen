@@ -1,0 +1,10 @@
+<map id="put_atts" name="put_atts">
+<area shape="rect" id="node2" href="$test__write_8F.html#ab1aece176be09c7f94820cc7678b09de" title="test_nf_redef" alt="" coords="124,36,223,62"/>
+<area shape="rect" id="node5" href="$test__write_8F.html#a7d47cc021ba75fd10a43ff7e8c5a06af" title="test_nf_sync" alt="" coords="295,86,389,113"/>
+<area shape="rect" id="node6" href="$test__write_8F.html#afe25daf400cd03f48ca6968ca81a3755" title="test_nf_abort" alt="" coords="293,137,391,164"/>
+<area shape="rect" id="node7" href="$test__write_8F.html#acde9040118f2d5768bb0050c4211899f" title="test_nf_rename_att" alt="" coords="275,188,409,214"/>
+<area shape="rect" id="node8" href="$test__write_8F.html#a00276a80894a9e547e49cb8983a816ac" title="test_nf_del_att" alt="" coords="120,238,227,265"/>
+<area shape="rect" id="node9" href="$util_8F.html#ae94d4780c8fdb163d01376c439735ab5" title="write_file" alt="" coords="136,289,211,316"/>
+<area shape="rect" id="node3" href="$nf__test_8F.html#ad2c9f693d88d838d30283170c28b9011" title="nf_test" alt="" coords="457,137,517,164"/>
+<area shape="rect" id="node4" href="$test__write_8F.html#a01a0a8d5916e92c69e29aea5d580bd74" title="test_nf_enddef" alt="" coords="287,36,397,62"/>
+</map>

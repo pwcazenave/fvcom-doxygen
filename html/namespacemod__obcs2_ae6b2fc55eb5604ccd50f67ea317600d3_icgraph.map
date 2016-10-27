@@ -1,0 +1,6 @@
+<map id="mod_obcs2::test_cell" name="mod_obcs2::test_cell">
+<area shape="rect" id="node2" href="$advave__edge__gcn_8F.html#a8ece9ada5e674bc9c56102502c674b37" title="advave_edge_gcn" alt="" coords="204,31,340,57"/>
+<area shape="rect" id="node3" href="$external__step_8F.html#a05d83bae7032cfa82fc4c306d0c4fa75" title="external_step" alt="" coords="388,5,491,32"/>
+<area shape="rect" id="node4" href="$internal__step_8F.html#a846aaaba1049b502a4dca200211ddcdd" title="internal_step" alt="" coords="539,31,636,57"/>
+<area shape="rect" id="node5" href="$fvcom_8F.html#a71553fbc413f0dd43b3fba01ab4df524" title="fvcom" alt="" coords="684,31,743,57"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="mod_obcs::assign_elm1_to_elm2" name="mod_obcs::assign_elm1_to_elm2">
+<area shape="rect" id="node2" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="255,5,402,32"/>
+<area shape="rect" id="node5" href="$namespacemod__time.html#a5cb76b44f634d83e6859b4eca6abf97d" title="mod_time::now_2_month_days" alt="" coords="224,107,433,133"/>
+<area shape="rect" id="node10" href="$namespacemod__obcs.html#aa8552efee49ea723a0a9aac299913518" title="mod_obcs::gday1" alt="" coords="263,56,395,83"/>
+<area shape="rect" id="node11" href="$namespacemod__obcs.html#acdaf347151906de2cf4b71c0afe6546f" title="mod_obcs::astro" alt="" coords="267,157,390,184"/>
+<area shape="rect" id="node12" href="$namespacemod__time.html#a92819efd5c7a4eec1b0dc42efb4398a8" title="mod_time::seconds" alt="" coords="258,208,399,235"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="502,5,637,32"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="510,56,629,83"/>
+<area shape="rect" id="node6" href="$namespacemod__time.html#a2045785f7f1aed692fa7c2c55357914b" title="mod_time::write_datetime" alt="" coords="481,107,657,133"/>
+<area shape="rect" id="node9" href="$namespacemod__time.html#a96088dadd5be54bce340adc1133c24d9" title="mod_time::read_datetime" alt="" coords="481,157,657,184"/>
+<area shape="rect" id="node7" href="$namespacemod__time.html#a63cba3b0a109ac21ddf951418cf7d079" title="mod_time::time_zone" alt="" coords="705,132,856,159"/>
+<area shape="rect" id="node8" href="$namespacemod__time.html#a46a59bd304e28442882f29f4d5a8be80" title="mod_time::read_time" alt="" coords="904,132,1053,159"/>
+</map>

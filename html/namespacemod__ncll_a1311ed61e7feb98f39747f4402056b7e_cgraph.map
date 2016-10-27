@@ -1,0 +1,8 @@
+<map id="mod_ncll::copy_var" name="mod_ncll::copy_var">
+<area shape="rect" id="node2" href="$namespacemod__ncll.html#a17df61119865398cdbcd8f1780cca783" title="mod_ncll::new_var" alt="" coords="192,53,327,79"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="568,53,715,79"/>
+<area shape="rect" id="node6" href="$namespacemod__ncll.html#a203dcb84a7099d5e31142079f2b6d3ef" title="mod_ncll::new_dimp" alt="" coords="375,27,520,54"/>
+<area shape="rect" id="node7" href="$namespacemod__ncll.html#a94ceed48af39f914ed93db8e5f456f4f" title="mod_ncll::new_attp" alt="" coords="379,78,516,105"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="763,27,897,54"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="771,78,889,105"/>
+</map>

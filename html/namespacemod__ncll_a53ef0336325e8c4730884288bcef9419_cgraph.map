@@ -1,0 +1,8 @@
+<map id="mod_ncll::kill_file" name="mod_ncll::kill_file">
+<area shape="rect" id="node2" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="773,30,908,57"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a28dce2e1de5b7a2f2cda38d48affeb88" title="mod_utils::warning" alt="" coords="396,30,531,57"/>
+<area shape="rect" id="node4" href="$namespacemod__ncll.html#a99bdebe339eb8ee901dc1fef09fdc7bc" title="mod_ncll::delete_var_list" alt="" coords="177,81,348,107"/>
+<area shape="rect" id="node6" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="579,81,725,107"/>
+<area shape="rect" id="node5" href="$namespacemod__ncll.html#a27f9eeb0cdaaddf2a4f2a17627297138" title="mod_ncll::kill_var" alt="" coords="400,81,527,107"/>
+<area shape="rect" id="node7" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="781,81,900,107"/>
+</map>

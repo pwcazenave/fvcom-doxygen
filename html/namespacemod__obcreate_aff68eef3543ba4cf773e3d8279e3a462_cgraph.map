@@ -1,0 +1,11 @@
+<map id="mod_obcreate::read_old_ts" name="mod_obcreate::read_old_ts">
+<area shape="rect" id="node2" href="$namespacemod__time.html#a96088dadd5be54bce340adc1133c24d9" title="mod_time::read_datetime" alt="" coords="202,27,378,53"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="217,88,363,115"/>
+<area shape="rect" id="node8" href="$namespacemod__set__time.html#aec27ae1f0ee82c3145dca9e154a1068d" title="mod_set_time::ideal\l_time_string2time" alt="" coords="218,139,362,181"/>
+<area shape="rect" id="node10" href="$namespacemod__obcreate.html#a11f67178d080fc8beb209f4c8fb8733c" title="mod_obcreate::allocate_ts" alt="" coords="199,205,381,232"/>
+<area shape="rect" id="node3" href="$namespacemod__time.html#a63cba3b0a109ac21ddf951418cf7d079" title="mod_time::time_zone" alt="" coords="429,5,580,32"/>
+<area shape="rect" id="node4" href="$namespacemod__time.html#a46a59bd304e28442882f29f4d5a8be80" title="mod_time::read_time" alt="" coords="628,5,777,32"/>
+<area shape="rect" id="node6" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="437,56,572,83"/>
+<area shape="rect" id="node7" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="445,107,564,133"/>
+<area shape="rect" id="node9" href="$util_8F.html#a841965d33d85051da6b4a1321c4863b2" title="len_trim" alt="" coords="471,157,539,184"/>
+</map>

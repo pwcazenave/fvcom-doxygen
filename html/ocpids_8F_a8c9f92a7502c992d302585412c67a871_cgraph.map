@@ -1,0 +1,9 @@
+<map id="ocpini" name="ocpini">
+<area shape="rect" id="node2" href="$ocpids_8F.html#a8a7287fef2f00a643e5015ca814ecff7" title="ocdtim" alt="" coords="111,5,173,32"/>
+<area shape="rect" id="node6" href="$ocpmix_8F.html#aefe3ccee1a5038b14ac40e21973d4b24" title="msgerr" alt="" coords="321,56,385,83"/>
+<area shape="rect" id="node7" href="$ocpids_8F.html#aad39c5edf015c8ca9728a49553ae481b" title="dttist" alt="" coords="117,107,167,133"/>
+<area shape="rect" id="node8" href="$ocpcre_8F.html#a0b3a0be2a272d226bba55e719746510d" title="rdinit" alt="" coords="221,157,272,184"/>
+<area shape="rect" id="node3" href="$ocpids_8F.html#ad35eb89ed35a45d8f98f4704fcc02f72" title="dtstti" alt="" coords="222,5,271,32"/>
+<area shape="rect" id="node4" href="$ocpcre_8F.html#ac085d73073b0e435241fb3da95cc442d" title="upcase" alt="" coords="320,5,387,32"/>
+<area shape="rect" id="node5" href="$ocpmix_8F.html#acd882626211bcb78486211cc0ac41678" title="strace" alt="" coords="435,69,493,96"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ice_flux_in::ly_bulk_data" name="ice_flux_in::ly_bulk_data">
+<area shape="rect" id="node2" href="$namespaceice__flux__in.html#abd39470a0f236b1746a21c3ee8f3581c" title="ice_flux_in::interp\l_coeff_monthly" alt="" coords="229,5,353,47"/>
+<area shape="rect" id="node3" href="$namespaceice__flux__in.html#aaafb74d88eaa614422f6be97e4ac4892" title="ice_flux_in::interp\l_coeff" alt="" coords="229,71,353,112"/>
+<area shape="rect" id="node4" href="$namespaceice__flux__in.html#a1a701fbc81e74a1d0340cda978e274d6" title="ice_flux_in::compute\l_shortwave" alt="" coords="220,136,363,177"/>
+</map>

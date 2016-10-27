@@ -1,0 +1,5 @@
+<map id="mod_nctools::char_att_read_helper" name="mod_nctools::char_att_read_helper">
+<area shape="rect" id="node2" href="$namespacemod__nctools.html#a3edfa5d575a6d33532fb39ffa348c69d" title="mod_nctools::read_att_type" alt="" coords="208,31,396,57"/>
+<area shape="rect" id="node3" href="$namespacemod__nctools.html#a16295542b07ef6e4df11978d9e0e41b0" title="mod_nctools::nc_get_gatt" alt="" coords="444,5,620,32"/>
+<area shape="rect" id="node4" href="$namespacemod__nctools.html#a84e6dd0d7793a94af97752d4c87d469d" title="mod_nctools::nc_get_vatt" alt="" coords="445,56,619,83"/>
+</map>

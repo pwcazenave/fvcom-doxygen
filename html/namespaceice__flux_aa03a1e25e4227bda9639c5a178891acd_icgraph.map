@@ -1,0 +1,4 @@
+<map id="ice_flux::init_flux_atm" name="ice_flux::init_flux_atm">
+<area shape="rect" id="node2" href="$namespaceice__init.html#a5415eb5796bc1fd1eac438d37fdcd358" title="ice_init::init_flux" alt="" coords="208,5,323,32"/>
+<area shape="rect" id="node3" href="$namespaceice__therm__vertical.html#a41018c2d1275b4fee13d1d97c7d32298" title="ice_therm_vertical\l::thermo_vertical" alt="" coords="200,57,331,98"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ice_therm_itd::thermo_itd" name="ice_therm_itd::thermo_itd">
+<area shape="rect" id="node2" href="$namespaceice__flux.html#a985af4afe9ebb697857f3f5eaf714545" title="ice_flux::init_flux_ocn" alt="" coords="240,9,387,35"/>
+<area shape="rect" id="node3" href="$namespaceice__itd__linear.html#a8722ec2d35103c60c2ad26dc5bde65f8" title="ice_itd_linear::linear_itd" alt="" coords="232,126,395,153"/>
+<area shape="rect" id="node9" href="$namespaceice__therm__itd.html#a01d2c51a217d8ee6ab8e07c550aacaac" title="ice_therm_itd::add\l_new_ice" alt="" coords="247,60,380,101"/>
+<area shape="rect" id="node10" href="$namespaceice__therm__itd.html#af56d2ceaf17496c460785ef492f24bef" title="ice_therm_itd::lateral_melt" alt="" coords="224,227,403,254"/>
+<area shape="rect" id="node11" href="$namespaceice__therm__itd.html#a04b27ceb03dee6e0978a5cc6ecf66d0f" title="ice_therm_itd::freeboard" alt="" coords="230,278,397,305"/>
+<area shape="rect" id="node12" href="$namespaceice__itd.html#a66f537d63f6bf350b0d205832ced3838" title="ice_itd::reduce_area" alt="" coords="240,329,387,355"/>
+<area shape="rect" id="node13" href="$namespaceice__itd.html#ac6b7ddf46d55f420bf0a7f701a724b5d" title="ice_itd::rebin" alt="" coords="264,177,363,203"/>
+<area shape="rect" id="node14" href="$namespaceice__itd.html#a5c431bd25eb67ee3bc2efd90b29450d7" title="ice_itd::zap_small\l_areas" alt="" coords="248,380,379,421"/>
+<area shape="rect" id="node15" href="$namespaceice__itd.html#af934be7228f44bbd21e488aed8e431b3" title="ice_itd::aggregate" alt="" coords="247,446,379,473"/>
+<area shape="rect" id="node4" href="$namespaceice__itd.html#ae2e9a6fc07c4b8f026a35daf2541f254" title="ice_itd::column_sum" alt="" coords="477,71,621,98"/>
+<area shape="rect" id="node5" href="$namespaceice__itd.html#aee99b70c2f7516a48996204532dbe02b" title="ice_itd::aggregate_area" alt="" coords="465,173,632,199"/>
+<area shape="rect" id="node6" href="$namespaceice__itd__linear.html#af0a06a1ace5096c85b81898c32dbcf9c" title="ice_itd_linear::fit_line" alt="" coords="475,122,622,149"/>
+<area shape="rect" id="node7" href="$namespaceice__itd.html#a7535a2f186d37efa4e0e8bcd8b99b8f5" title="ice_itd::shift_ice" alt="" coords="490,223,607,250"/>
+<area shape="rect" id="node8" href="$namespaceice__itd.html#ad1a3cf5c9aa07084833a2f0d3cfd6998" title="ice_itd::column_conservation\l_check" alt="" coords="451,5,647,47"/>
+</map>

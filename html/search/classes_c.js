@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['nc_5fconnect_5favar',['nc_connect_avar',['../interfacemod__nctools_1_1nc__connect__avar.html',1,'mod_nctools']]],
+  ['nc_5fconnect_5fpvar',['nc_connect_pvar',['../interfacemod__nctools_1_1nc__connect__pvar.html',1,'mod_nctools']]],
+  ['nc_5fget_5fatt',['nc_get_att',['../interfacemod__nctools_1_1nc__get__att.html',1,'mod_nctools']]],
+  ['nc_5fmake_5fatt',['nc_make_att',['../interfacemod__nctools_1_1nc__make__att.html',1,'mod_nctools']]],
+  ['nc_5fmake_5favar',['nc_make_avar',['../interfacemod__nctools_1_1nc__make__avar.html',1,'mod_nctools']]],
+  ['nc_5fmake_5fpvar',['nc_make_pvar',['../interfacemod__nctools_1_1nc__make__pvar.html',1,'mod_nctools']]],
+  ['nc_5fmake_5fruntime_5fatt_5fchr',['nc_make_runtime_att_chr',['../interfacemod__nctools_1_1nc__make__runtime__att__chr.html',1,'mod_nctools']]],
+  ['nc_5fpoint_5fvar',['nc_point_var',['../interfacemod__nctools_1_1nc__point__var.html',1,'mod_nctools']]],
+  ['ncatt',['ncatt',['../structmod__ncll_1_1ncatt.html',1,'mod_ncll']]],
+  ['ncattp',['ncattp',['../structmod__ncll_1_1ncattp.html',1,'mod_ncll']]],
+  ['ncdim',['ncdim',['../structmod__ncll_1_1ncdim.html',1,'mod_ncll']]],
+  ['ncdimp',['ncdimp',['../structmod__ncll_1_1ncdimp.html',1,'mod_ncll']]],
+  ['ncfile',['ncfile',['../structmod__ncll_1_1ncfile.html',1,'mod_ncll']]],
+  ['ncfilelist',['ncfilelist',['../structmod__ncll_1_1ncfilelist.html',1,'mod_ncll']]],
+  ['ncfilep',['ncfilep',['../structmod__ncll_1_1ncfilep.html',1,'mod_ncll']]],
+  ['ncftime',['ncftime',['../structmod__ncll_1_1ncftime.html',1,'mod_ncll']]],
+  ['ncvar',['ncvar',['../structmod__ncll_1_1ncvar.html',1,'mod_ncll']]],
+  ['ncvarp',['ncvarp',['../structmod__ncll_1_1ncvarp.html',1,'mod_ncll']]],
+  ['nest_5fdata',['nest_data',['../structmod__nesting_1_1nest__data.html',1,'mod_nesting']]]
+];

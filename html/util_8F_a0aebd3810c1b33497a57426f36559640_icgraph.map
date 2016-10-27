@@ -1,0 +1,15 @@
+<map id="varid" name="varid">
+<area shape="rect" id="node2" href="$test__read_8F.html#a4d3551e0d63d2b2250aeb86c63d60d88" title="test_nf_inq_varnatts" alt="" coords="423,5,561,32"/>
+<area shape="rect" id="node4" href="$test__write_8F.html#a80aae8f286f44fd0fa54bee3eb65cc4f" title="test_nf_copy_att" alt="" coords="249,56,366,83"/>
+<area shape="rect" id="node5" href="$test__write_8F.html#acde9040118f2d5768bb0050c4211899f" title="test_nf_rename_att" alt="" coords="240,208,375,235"/>
+<area shape="rect" id="node6" href="$test__write_8F.html#a00276a80894a9e547e49cb8983a816ac" title="test_nf_del_att" alt="" coords="254,259,361,285"/>
+<area shape="rect" id="node7" href="$util_8F.html#ade5150e7ea9b149f68019a9983988b75" title="put_atts" alt="" coords="115,259,182,285"/>
+<area shape="rect" id="node13" href="$util_8F.html#a55d02f073c566b034aae4ad46c56ac65" title="check_atts" alt="" coords="105,107,192,133"/>
+<area shape="rect" id="node3" href="$nf__test_8F.html#ad2c9f693d88d838d30283170c28b9011" title="nf_test" alt="" coords="609,259,669,285"/>
+<area shape="rect" id="node8" href="$test__write_8F.html#ab1aece176be09c7f94820cc7678b09de" title="test_nf_redef" alt="" coords="258,411,357,437"/>
+<area shape="rect" id="node10" href="$test__write_8F.html#a7d47cc021ba75fd10a43ff7e8c5a06af" title="test_nf_sync" alt="" coords="260,157,355,184"/>
+<area shape="rect" id="node11" href="$test__write_8F.html#afe25daf400cd03f48ca6968ca81a3755" title="test_nf_abort" alt="" coords="443,360,541,387"/>
+<area shape="rect" id="node12" href="$util_8F.html#ae94d4780c8fdb163d01376c439735ab5" title="write_file" alt="" coords="455,309,529,336"/>
+<area shape="rect" id="node9" href="$test__write_8F.html#a01a0a8d5916e92c69e29aea5d580bd74" title="test_nf_enddef" alt="" coords="437,461,547,488"/>
+<area shape="rect" id="node14" href="$util_8F.html#a0e68ce6e020ad5b1c80c08a12c9f300f" title="check_file" alt="" coords="266,107,349,133"/>
+</map>

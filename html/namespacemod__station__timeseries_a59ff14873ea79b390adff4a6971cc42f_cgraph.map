@@ -1,0 +1,5 @@
+<map id="mod_station_timeseries::write_netcdf_setup" name="mod_station_timeseries::write_netcdf_setup">
+<area shape="rect" id="node2" href="$namespacemod__clock.html#a2935f6c1e2152e4f34e1d5ef75c5f77f" title="mod_clock::get_timestamp" alt="" coords="217,5,400,32"/>
+<area shape="rect" id="node3" href="$namespacemod__nctools.html#abe6ea876d31a1c94269abbf77288cac5" title="mod_nctools::handle\l_ncerr" alt="" coords="448,78,596,119"/>
+<area shape="rect" id="node4" href="$namespacemod__station__timeseries.html#a45e9283bb46163dc0aaf9c121e015f76" title="mod_station_timeseries\l::putvar_char" alt="" coords="227,107,391,149"/>
+</map>

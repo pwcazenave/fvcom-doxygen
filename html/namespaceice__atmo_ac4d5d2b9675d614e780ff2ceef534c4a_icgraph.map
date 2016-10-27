@@ -1,0 +1,5 @@
+<map id="ice_atmo::atmo_boundary_layer" name="ice_atmo::atmo_boundary_layer">
+<area shape="rect" id="node2" href="$namespaceice__coupling.html#adf0397ab8a67647e6fae127b73bc80a8" title="ice_coupling::to_coupler" alt="" coords="232,5,399,32"/>
+<area shape="rect" id="node3" href="$namespaceice__ocean.html#ae80ef0b93744c66913a3956f3b91c1cf" title="ice_ocean::mixed_layer" alt="" coords="232,56,399,83"/>
+<area shape="rect" id="node4" href="$namespaceice__therm__vertical.html#a41018c2d1275b4fee13d1d97c7d32298" title="ice_therm_vertical\l::thermo_vertical" alt="" coords="250,107,381,149"/>
+</map>

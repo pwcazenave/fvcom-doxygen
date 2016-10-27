@@ -1,0 +1,7 @@
+<map id="allocate_all" name="allocate_all">
+<area shape="rect" id="node2" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="169,5,304,32"/>
+<area shape="rect" id="node3" href="$namespaceall__vars.html#ae318ceb90aed4821d1b63f65324a1c73" title="all_vars::alloc_vars" alt="" coords="167,56,306,83"/>
+<area shape="rect" id="node4" href="$namespacemod__obcs.html#ae8d74b5f9106e67073b7aca5a8f4bed0" title="mod_obcs::alloc_obc_data" alt="" coords="144,107,329,133"/>
+<area shape="rect" id="node5" href="$namespacemod__wd.html#af26da8406ad7999c59da57ed7ed1b48e" title="mod_wd::alloc_wd_data" alt="" coords="151,157,322,184"/>
+<area shape="rect" id="node6" href="$namespacemod__spherical.html#a53d2044de80290e4dc30de2ed1f70539" title="mod_spherical::alloc\l_sphere_vars" alt="" coords="163,209,310,250"/>
+</map>

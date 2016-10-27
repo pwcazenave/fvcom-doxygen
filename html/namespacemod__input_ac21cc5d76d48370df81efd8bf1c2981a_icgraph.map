@@ -1,0 +1,6 @@
+<map id="mod_input::read_coldstart_coriolis" name="mod_input::read_coldstart_coriolis">
+<area shape="rect" id="node2" href="$input_2restart__file_2main_8F.html#a76891453241e9fdaad236aeedb3ba504" title="restart_create" alt="" coords="267,5,371,32"/>
+<area shape="rect" id="node3" href="$namespacemod__input.html#a14495b11d03429dd9072eae6cc17dcfb" title="mod_input::load_coldstart\l_coriolis" alt="" coords="231,57,407,98"/>
+<area shape="rect" id="node4" href="$coords__n__const_8F.html#a312d428ac61b3cce31ebd3c76251deae" title="coords_n_const" alt="" coords="455,64,572,91"/>
+<area shape="rect" id="node5" href="$fvcom_8F.html#a71553fbc413f0dd43b3fba01ab4df524" title="fvcom" alt="" coords="620,64,679,91"/>
+</map>

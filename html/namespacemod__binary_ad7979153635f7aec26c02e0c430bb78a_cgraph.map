@@ -1,0 +1,10 @@
+<map id="mod_binary::load_binary" name="mod_binary::load_binary">
+<area shape="rect" id="node2" href="$namespacemod__binary.html#a10c2b56402de0b7a1976e1258d26cf7a" title="mod_binary::new_data" alt="" coords="227,5,386,32"/>
+<area shape="rect" id="node3" href="$namespacemod__binary.html#ac96aaa0ce966819d5960dbea3bfec53b" title="mod_binary::read_wnd" alt="" coords="227,56,387,83"/>
+<area shape="rect" id="node5" href="$namespacemod__binary.html#a9052b779a5c181ee1404331f4e7b45d5" title="mod_binary::read_hfx" alt="" coords="231,107,383,133"/>
+<area shape="rect" id="node6" href="$namespacemod__binary.html#aed6d7fba40e022e7a159f63e20326cf2" title="mod_binary::read_evp" alt="" coords="228,157,385,184"/>
+<area shape="rect" id="node7" href="$namespacemod__binary.html#a6fe327937d3d6d592f43c404bc8d1659" title="mod_binary::read_aip" alt="" coords="230,208,383,235"/>
+<area shape="rect" id="node8" href="$namespacemod__binary.html#a09b7f079c3e76c6d207eaa1efdc6c56a" title="mod_binary::read_ice" alt="" coords="230,259,383,285"/>
+<area shape="rect" id="node9" href="$namespacemod__binary.html#a240af0d15fdd4ba3adbdf778e60e8700" title="mod_binary::read_solar" alt="" coords="224,309,389,336"/>
+<area shape="rect" id="node4" href="$namespacemod__binary.html#a16fc05c54e72d269ea090c59d3ddab43" title="mod_binary::ioerror" alt="" coords="437,183,576,209"/>
+</map>

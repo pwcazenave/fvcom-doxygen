@@ -1,0 +1,18 @@
+<map id="grid_metrics" name="grid_metrics">
+<area shape="rect" id="node2" href="$tge_8F.html#a5da77c1a38a80dec9f754fa0aa7e2f25" title="triangle_grid_edge" alt="" coords="163,149,297,176"/>
+<area shape="rect" id="node6" href="$namespacemod__station__timeseries.html#ad37760ed3639cd6a650fadad46445353" title="mod_station_timeseries\l::triangle_grid_edge_gl" alt="" coords="148,521,312,562"/>
+<area shape="rect" id="node7" href="$cell__area_8F.html#a80f0b332c4750926a22d6d6570777d5b" title="cell_area" alt="" coords="191,469,269,496"/>
+<area shape="rect" id="node9" href="$shape__coef__gcn_8F.html#a2a226e95942c34bc01d1f89eaabc5e07" title="shape_coef_gcn" alt="" coords="377,5,499,32"/>
+<area shape="rect" id="node10" href="$shape__coef__gcy_8F.html#ab4dc2fe3d8c5436cb5df834bfc796961" title="shape_coef_gcy" alt="" coords="377,427,499,453"/>
+<area shape="rect" id="node11" href="$namespacemod__northpole.html#ab9da907175e9586f7b86f4dda07ad89e" title="mod_northpole::find\l_northpole" alt="" coords="160,251,300,293"/>
+<area shape="rect" id="node12" href="$namespacemod__northpole.html#aed89c743a7d3a038e812538b7f25f1d1" title="mod_northpole::shape\l_coef_xy" alt="" coords="360,361,516,402"/>
+<area shape="rect" id="node13" href="$namespacemod__northpole.html#a3648a0867627dbf17d0b8d71378f3ef2" title="mod_northpole::find\l_cellside" alt="" coords="160,586,300,627"/>
+<area shape="rect" id="node14" href="$edge__len_8F.html#af0f9c8adfdc6202b922a0fb78d72ffaa" title="edge_len" alt="" coords="191,200,269,227"/>
+<area shape="rect" id="node15" href="$depth__grad_8F.html#abba5f27bbdbfe9f9dd306f9a52fb617e" title="depth_gradient" alt="" coords="175,652,285,679"/>
+<area shape="rect" id="node16" href="$namespacemod__obcs.html#a2a4f61d5182cb41333d7572b9dadf2aa" title="mod_obcs::setup_obc" alt="" coords="361,56,515,83"/>
+<area shape="rect" id="node17" href="$longshore__flow_8F.html#a4cfd8096c912989882e9ea81d4c94cc4" title="longshore_flow" alt="" coords="173,317,287,344"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="564,284,699,311"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="572,81,691,108"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="365,208,511,235"/>
+<area shape="rect" id="node8" href="$namespacemod__utils.html#a28dce2e1de5b7a2f2cda38d48affeb88" title="mod_utils::warning" alt="" coords="371,477,505,504"/>
+</map>

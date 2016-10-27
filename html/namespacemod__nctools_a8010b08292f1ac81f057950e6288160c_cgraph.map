@@ -1,0 +1,12 @@
+<map id="mod_nctools::get_file_time_ncf" name="mod_nctools::get_file_time_ncf">
+<area shape="rect" id="node2" href="$namespacemod__ncll.html#a814fd68d0236f1c639806499c958f7f2" title="mod_ncll::print_file" alt="" coords="204,56,336,83"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="841,5,975,32"/>
+<area shape="rect" id="node4" href="$namespacemod__ncll.html#a05d164ee89b1d2ae59bf00cd250f4cb7" title="mod_ncll::print_ftime" alt="" coords="395,56,538,83"/>
+<area shape="rect" id="node11" href="$namespacemod__ncll.html#af1875d07df7e83737ffa3b46fef4daa6" title="mod_ncll::count_var_list" alt="" coords="384,107,549,133"/>
+<area shape="rect" id="node5" href="$namespacemod__ncll.html#ac9cc021f412d804365cacdeb4de54235" title="mod_ncll::print_var" alt="" coords="617,31,752,57"/>
+<area shape="rect" id="node6" href="$namespacemod__time.html#a905032f26f2cfd43960ff4f015a1ece7" title="mod_time::print_real_time" alt="" coords="597,132,772,159"/>
+<area shape="rect" id="node7" href="$namespacemod__time.html#a849c0b6853fe91041f7ba6e99bb5aca6" title="mod_time::print_time" alt="" coords="835,81,981,108"/>
+<area shape="rect" id="node8" href="$namespacemod__time.html#a2045785f7f1aed692fa7c2c55357914b" title="mod_time::write_datetime" alt="" coords="820,132,996,159"/>
+<area shape="rect" id="node9" href="$namespacemod__time.html#a63cba3b0a109ac21ddf951418cf7d079" title="mod_time::time_zone" alt="" coords="1044,132,1195,159"/>
+<area shape="rect" id="node10" href="$namespacemod__time.html#a46a59bd304e28442882f29f4d5a8be80" title="mod_time::read_time" alt="" coords="1243,132,1392,159"/>
+</map>

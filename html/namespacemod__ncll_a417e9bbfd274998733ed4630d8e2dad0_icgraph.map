@@ -1,0 +1,10 @@
+<map id="mod_ncll::kill_dim" name="mod_ncll::kill_dim">
+<area shape="rect" id="node2" href="$namespacemod__ncll.html#a32e7a451c034f2d2f756c96c7ec49ee9" title="mod_ncll::delete_ncf\l_dimp_byname" alt="" coords="189,5,335,47"/>
+<area shape="rect" id="node3" href="$namespacemod__ncll.html#a8b109880f0acc9617a598c6906f30d5c" title="mod_ncll::delete_ncf\l_dimp_bydimid" alt="" coords="189,71,335,112"/>
+<area shape="rect" id="node4" href="$namespacemod__ncll.html#adf7403c3f445a2f248c6740127a6f9b1" title="mod_ncll::delete_ncf\l_dimp_list" alt="" coords="189,136,335,177"/>
+<area shape="rect" id="node5" href="$namespacemod__ncll.html#a89bba95c35485d07d4eb01e274d472f5" title="mod_ncll::delete_var\l_dimp_byname" alt="" coords="188,201,336,243"/>
+<area shape="rect" id="node6" href="$namespacemod__ncll.html#af3f371922a774a25d565069010ea7b6e" title="mod_ncll::delete_var\l_dimp_bydimid" alt="" coords="188,267,336,308"/>
+<area shape="rect" id="node7" href="$namespacemod__ncll.html#ab06ee2a6bb58b00efacad0feb904212a" title="mod_ncll::delete_var\l_dimp_list" alt="" coords="188,332,336,373"/>
+<area shape="rect" id="node8" href="$namespacemod__ncll.html#afa7661a664af91bc37281a5526b8af7d" title="mod_ncll::ncf_plus_var" alt="" coords="183,398,341,425"/>
+<area shape="rect" id="node9" href="$namespacemod__ncll.html#ad3246627f23b3261e27beeac8fe5784a" title="mod_ncll::ncf_plus_ncf" alt="" coords="184,449,340,475"/>
+</map>

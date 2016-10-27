@@ -1,0 +1,9 @@
+<map id="mod_nctools::nc_get_var" name="mod_nctools::nc_get_var">
+<area shape="rect" id="node2" href="$namespacemod__nctools.html#abe6ea876d31a1c94269abbf77288cac5" title="mod_nctools::handle\l_ncerr" alt="" coords="227,5,375,47"/>
+<area shape="rect" id="node3" href="$namespacemod__ncll.html#a17df61119865398cdbcd8f1780cca783" title="mod_ncll::new_var" alt="" coords="233,71,368,98"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="616,71,763,98"/>
+<area shape="rect" id="node7" href="$namespacemod__ncll.html#a203dcb84a7099d5e31142079f2b6d3ef" title="mod_ncll::new_dimp" alt="" coords="423,71,568,98"/>
+<area shape="rect" id="node8" href="$namespacemod__ncll.html#a94ceed48af39f914ed93db8e5f456f4f" title="mod_ncll::new_attp" alt="" coords="427,122,564,149"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="811,46,945,73"/>
+<area shape="rect" id="node6" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="819,97,937,123"/>
+</map>

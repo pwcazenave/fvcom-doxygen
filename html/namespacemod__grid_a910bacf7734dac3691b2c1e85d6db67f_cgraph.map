@@ -1,0 +1,10 @@
+<map id="mod_grid::my_grid_metrics" name="mod_grid::my_grid_metrics">
+<area shape="rect" id="node2" href="$tge_8F.html#a5da77c1a38a80dec9f754fa0aa7e2f25" title="triangle_grid_edge" alt="" coords="239,132,373,159"/>
+<area shape="rect" id="node6" href="$cell__area_8F.html#a80f0b332c4750926a22d6d6570777d5b" title="cell_area" alt="" coords="267,259,345,285"/>
+<area shape="rect" id="node8" href="$shape__coef__gcn_8F.html#a2a226e95942c34bc01d1f89eaabc5e07" title="shape_coef_gcn" alt="" coords="434,5,555,32"/>
+<area shape="rect" id="node9" href="$shape__coef__gcy_8F.html#ab4dc2fe3d8c5436cb5df834bfc796961" title="shape_coef_gcy" alt="" coords="245,208,367,235"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="616,183,751,209"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="624,56,743,83"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="421,107,568,133"/>
+<area shape="rect" id="node7" href="$namespacemod__utils.html#a28dce2e1de5b7a2f2cda38d48affeb88" title="mod_utils::warning" alt="" coords="427,259,562,285"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mod_fvcom2gnome::set_seg_neighbors" name="mod_fvcom2gnome::set_seg_neighbors">
+<area shape="rect" id="node2" href="$namespacesegment__class.html#a352c0169f13e050a28de20b59e0ab302" title="segment_class::set\l_neighbors" alt="" coords="221,23,360,65"/>
+<area shape="rect" id="node3" href="$namespacesegment__class.html#a9a2d163664fa3cf6cff4f5334e3b24aa" title="segment_class::leftney" alt="" coords="412,5,572,32"/>
+<area shape="rect" id="node4" href="$namespacesegment__class.html#a9ba2b2fefa602e0d90eaf49ef415c70c" title="segment_class::rightney" alt="" coords="408,56,576,83"/>
+</map>

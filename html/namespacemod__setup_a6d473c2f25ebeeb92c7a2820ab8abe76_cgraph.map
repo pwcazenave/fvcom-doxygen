@@ -1,0 +1,8 @@
+<map id="mod_setup::setup_sigma" name="mod_setup::setup_sigma">
+<area shape="rect" id="node2" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="485,5,620,32"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="258,56,405,83"/>
+<area shape="rect" id="node5" href="$namespacemod__setup.html#ae3613cba1b915fa49f7f7cfe3211c805" title="mod_setup::sigma_geometric" alt="" coords="231,107,431,133"/>
+<area shape="rect" id="node6" href="$namespacemod__setup.html#ace802aef59195a0d19c956c1fa55c570" title="mod_setup::sigma_tanh" alt="" coords="249,157,414,184"/>
+<area shape="rect" id="node7" href="$namespacemod__setup.html#a85aa79930f8abbe491af91a430181934" title="mod_setup::sigma_generalized" alt="" coords="225,208,437,235"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="493,56,612,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ice_init::init_flux" name="ice_init::init_flux">
+<area shape="rect" id="node2" href="$namespaceice__flux.html#aa03a1e25e4227bda9639c5a178891acd" title="ice_flux::init_flux_atm" alt="" coords="168,5,315,32"/>
+<area shape="rect" id="node3" href="$namespaceice__flux.html#a985af4afe9ebb697857f3f5eaf714545" title="ice_flux::init_flux_ocn" alt="" coords="168,56,315,83"/>
+</map>

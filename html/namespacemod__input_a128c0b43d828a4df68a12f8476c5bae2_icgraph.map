@@ -1,0 +1,15 @@
+<map id="mod_input::check_io_dirs" name="mod_input::check_io_dirs">
+<area shape="rect" id="node2" href="$input_2aux__input_2main_8F.html#a2b791eecd2e3d1363cc3e0b0a11193a8" title="auxiliary_input" alt="" coords="266,5,373,32"/>
+<area shape="rect" id="node3" href="$input_2init__file_2main_8F.html#ac7e3a4265cb931c5d50aff9a3c6e836d" title="init_create" alt="" coords="278,56,361,83"/>
+<area shape="rect" id="node4" href="$input_2obc_2main_8F.html#a6b71a59e344f64c697f11fa0c1737699" title="obc_create" alt="" coords="275,107,364,133"/>
+<area shape="rect" id="node5" href="$input_2restart__file_2main_8F.html#a76891453241e9fdaad236aeedb3ba504" title="restart_create" alt="" coords="267,157,371,184"/>
+<area shape="rect" id="node6" href="$input_2rivers_2main_8F.html#aaca043a59a9949400e0d23e137012bd7" title="river_files" alt="" coords="280,208,359,235"/>
+<area shape="rect" id="node7" href="$input_2sms2grid_2main_8F.html#a7640bdcb345b42ac9e4e66299fc072b9" title="sms2grid" alt="" coords="280,259,359,285"/>
+<area shape="rect" id="node8" href="$input_2sst_2main_8F.html#ab8dfc3d27b0e3fbd850c4642882dcc2d" title="sst2grd" alt="" coords="286,309,353,336"/>
+<area shape="rect" id="node9" href="$input_2ts__assim__julian_2main_8F.html#a0cedb21281b0628684c21b239ce57f97" title="ts_clim" alt="" coords="288,360,351,387"/>
+<area shape="rect" id="node10" href="$namespacemod__input.html#a9a06e7ce859c6e38dc04855d0fc2ba68" title="mod_input::name_list_read" alt="" coords="228,411,411,437"/>
+<area shape="rect" id="node14" href="$open__all_8F.html#aec84c2d428927d2fa6f1cfb800cdc2ec" title="open_all" alt="" coords="459,461,532,488"/>
+<area shape="rect" id="node11" href="$namelist_8F.html#a8ef62778c7cc9c3579fb8973c8a7adfe" title="namelist" alt="" coords="459,411,531,437"/>
+<area shape="rect" id="node12" href="$fvcom_8F.html#a71553fbc413f0dd43b3fba01ab4df524" title="fvcom" alt="" coords="617,461,675,488"/>
+<area shape="rect" id="node13" href="$namespaceice__init.html#a8aeb5361cfea01402260b8b2727a2f4a" title="ice_init::input_data" alt="" coords="580,411,712,437"/>
+</map>

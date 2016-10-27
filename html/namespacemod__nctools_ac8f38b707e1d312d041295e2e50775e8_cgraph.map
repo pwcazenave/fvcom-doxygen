@@ -1,0 +1,12 @@
+<map id="mod_nctools::nc_def_var" name="mod_nctools::nc_def_var">
+<area shape="rect" id="node2" href="$namespacemod__ncll.html#a1021eb4206d9373f65181400f7788060" title="mod_ncll::print_var_list" alt="" coords="227,5,384,32"/>
+<area shape="rect" id="node4" href="$namespacemod__ncll.html#ac9cc021f412d804365cacdeb4de54235" title="mod_ncll::print_var" alt="" coords="442,56,577,83"/>
+<area shape="rect" id="node5" href="$namespacemod__ncll.html#af920c044d2f6967f79f87e971bfdbc29" title="mod_ncll::var_dimids" alt="" coords="230,107,381,133"/>
+<area shape="rect" id="node8" href="$namespacemod__nctools.html#abe6ea876d31a1c94269abbf77288cac5" title="mod_nctools::handle\l_ncerr" alt="" coords="635,201,783,242"/>
+<area shape="rect" id="node9" href="$namespacemod__nctools.html#a6561b47493717182239baa1d1fcfb272" title="mod_nctools::write\l_att_type" alt="" coords="238,230,373,271"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="641,56,776,83"/>
+<area shape="rect" id="node6" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="436,107,583,133"/>
+<area shape="rect" id="node7" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="649,107,768,133"/>
+<area shape="rect" id="node10" href="$util_8F.html#a841965d33d85051da6b4a1321c4863b2" title="len_trim" alt="" coords="475,259,543,285"/>
+<area shape="rect" id="node11" href="$namespacemod__nctools.html#a864bd12e8e5d8f6e5c60986b0a9fc120" title="mod_nctools::char_att\l_write_helper" alt="" coords="432,310,587,351"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="mod_nctools::nc_get_dim" name="mod_nctools::nc_get_dim">
+<area shape="rect" id="node2" href="$namespacemod__ncll.html#a1764282d217340dbcf6887e42e67705c" title="mod_ncll::new_dim" alt="" coords="234,31,373,57"/>
+<area shape="rect" id="node6" href="$namespacemod__nctools.html#abe6ea876d31a1c94269abbf77288cac5" title="mod_nctools::handle\l_ncerr" alt="" coords="229,82,377,123"/>
+<area shape="rect" id="node3" href="$namespacemod__utils.html#a286d3d85ab9f0b91880e0fc39416d93f" title="mod_utils::fatal_error" alt="" coords="425,31,572,57"/>
+<area shape="rect" id="node4" href="$namespacemod__utils.html#af4d60bccc1216e0c740fcefc0674ef9b" title="mod_utils::dbg_set" alt="" coords="620,5,755,32"/>
+<area shape="rect" id="node5" href="$namespacemod__utils.html#ae93fcc93c542767b282c6ee180f86270" title="mod_utils::pstop" alt="" coords="628,56,747,83"/>
+</map>
