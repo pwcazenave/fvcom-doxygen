@@ -2,9 +2,7 @@ var searchData=
 [
   ['lateral_5fmelt',['lateral_melt',['../namespaceice__therm__itd.html#af56d2ceaf17496c460785ef492f24bef',1,'ice_therm_itd']]],
   ['le_5ftime',['le_time',['../interfacemod__time_1_1operator_07_3_0A_08.html#a00a94d2c56c75f2c63c778c673f2ca5f',1,'mod_time::operator(&lt;=)::le_time()'],['../namespacemod__time.html#a0367c31ceac2b92261819862ba52b8a4',1,'mod_time::le_time()']]],
-  ['leesel',['leesel',['../ocpcre_8F.html#a97212530afaccde0b5d6da5367d4c6e8',1,'ocpcre.F']]],
   ['leftney',['leftney',['../namespacesegment__class.html#a9a2d163664fa3cf6cff4f5334e3b24aa',1,'segment_class']]],
-  ['len_5ftrim',['len_trim',['../util_8F.html#a841965d33d85051da6b4a1321c4863b2',1,'util.F']]],
   ['less_5fthan_5fparticle',['less_than_particle',['../interfaceparticle__class_1_1operator_07_3_08.html#a09ae59652f2e97d32f230a66abd4ba17',1,'particle_class::operator(&lt;)::less_than_particle()'],['../namespaceparticle__class.html#a51913532262b62623db968e1717b1bb4',1,'particle_class::less_than_particle()']]],
   ['lim',['lim',['../namespacescalar.html#a0f3ef591788b1e5dcef2de95ea0507f0',1,'scalar']]],
   ['limled',['limled',['../namespacemod__utils.html#a8a7552e587cdabb3d2fc5b3790dbb579',1,'mod_utils']]],
@@ -23,7 +21,6 @@ var searchData=
   ['load_5fcoldstart_5fobc_5fgrid',['load_coldstart_obc_grid',['../namespacemod__input.html#af065181db0e65d48043f44eefd5ea886',1,'mod_input']]],
   ['load_5fcoldstart_5fsigma',['load_coldstart_sigma',['../namespacemod__input.html#a1350aae2caf5bda17cee4d3cdd51c10f',1,'mod_input']]],
   ['load_5fcoldstart_5fsponge',['load_coldstart_sponge',['../namespacemod__input.html#af6b8ff99d72afb0f6116fbae3535e165',1,'mod_input']]],
-  ['load_5fgrid',['load_grid',['../load__grid_8F.html#a6e039ac96026ec21d2e91678bcfede23',1,'load_grid.F']]],
   ['load_5fgrid_5ftype',['load_grid_type',['../namespacemod__input.html#aca1897fd44e185bb5d33bf0409cffdd5',1,'mod_input']]],
   ['load_5fhorizontal_5fmixing_5fcoefficient',['load_horizontal_mixing_coefficient',['../namespacemod__input.html#afe5868a5819f48dcc1885e9099788298',1,'mod_input']]],
   ['load_5fjulian_5fobc',['load_julian_obc',['../namespacemod__input.html#a702d876ecad4b714be5b94b09bfa0575',1,'mod_input']]],
@@ -42,7 +39,6 @@ var searchData=
   ['load_5fwrf',['load_wrf',['../namespacemod__wrf.html#a0a66dbd8a91083a238744ab9591b0b91',1,'mod_wrf']]],
   ['load_5fwrf_5fin',['load_wrf_in',['../namespacemod__wrf2grd.html#a1c2351ab6564ced86f3cc54b81b00a4f',1,'mod_wrf2grd']]],
   ['long_5fx_5ftime',['long_x_time',['../interfacemod__time_1_1operator_07_5_08.html#a67e9830fdd368484cab52a441773e378',1,'mod_time::operator(*)::long_x_time()'],['../namespacemod__time.html#a1e2075fa49f775c5d30283e8e70dffd9',1,'mod_time::long_x_time()']]],
-  ['longshore_5fflow',['longshore_flow',['../longshore__flow_8F.html#a4cfd8096c912989882e9ea81d4c94cc4',1,'longshore_flow.F']]],
   ['lt_5ftime',['lt_time',['../interfacemod__time_1_1operator_07_3_08.html#a7f0256f9b66b1562a46a1f424a7d4d70',1,'mod_time::operator(&lt;)::lt_time()'],['../namespacemod__time.html#add7179532dc674d7da4d7abe88c293f7',1,'mod_time::lt_time()']]],
   ['ly_5fbulk_5fdata',['ly_bulk_data',['../namespaceice__flux__in.html#a752a8396a1012996356378f2bd227af4',1,'ice_flux_in']]],
   ['ly_5ffiles',['ly_files',['../namespaceice__flux__in.html#a9574be35328b86135e27a57f57544e4a',1,'ice_flux_in']]]

@@ -87,7 +87,6 @@ var searchData=
   ['qsalt',['qsalt',['../namespacemod__rivers.html#a4c22b653c62f371a56b4293985511e19',1,'mod_rivers']]],
   ['qtemp',['qtemp',['../namespacemod__rivers.html#a32527d1e5b584304d19af06bbbf14f70',1,'mod_rivers']]],
   ['qu',['qu',['../namespacemtridiagonal__scal.html#af3a9bc7172318a104daa31f39fee4257',1,'mtridiagonal_scal']]],
-  ['quad_2ef',['quad.F',['../quad_8F.html',1,'']]],
   ['quad_5fcple',['quad_cple',['../namespacem__xnldata.html#abf15066389b4b827f890787c05cba97e',1,'m_xnldata']]],
   ['quad_5fia2',['quad_ia2',['../namespacem__xnldata.html#ac74919ffb265b571762fc979f259d1bd',1,'m_xnldata']]],
   ['quad_5fia4',['quad_ia4',['../namespacem__xnldata.html#aeb30d1c8b2816175237b40558570a961',1,'m_xnldata']]],
